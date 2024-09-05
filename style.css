@@ -1,0 +1,22 @@
+
+.container-fluid{
+    background-color: #ff5733;
+}
+
+.logo{
+    max-width: 200px;
+}
+.nav-item{
+    font-size: 20px;
+    background-color: #ff5733;
+}
+.nav-item .nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+    color: #ffcc00;
+   
+}
+
+
+
